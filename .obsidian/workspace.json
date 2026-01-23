@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f4d0b667353acde0",
@@ -206,16 +205,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "c1266608c8a31f0a",
+  "active": "a10ecf12e17d0ed8",
   "lastOpenFiles": [
-    "Алгебра/Алгебра.md",
-    "Pasted image 20260123193104.png",
-    "Pasted image 20260123192729.png",
-    "Pasted image 20260123192712.png",
-    "Pasted image 20260123192645.png",
     "Алгебра/Вопросы по алгебре.md",
+    "Алгебра/Алгебра.md",
+    "All media/image_2026-01-23_04-00-19.png",
+    "consistency-report.md",
+    "All media",
+    "CopyQ.klyjSn.png",
+    "CopyQ.yllhRV.png",
+    "All media/Pasted image 20260123193104.png",
+    "Алгебра/фотос",
+    "All media/Pasted image 20260123192729.png",
+    "All media/Pasted image 20260123192712.png",
+    "All media/Pasted image 20260123192645.png",
     "A, B], [0, D.md",
-    "image_2026-01-23_04-00-19.png",
     "Матанчек/Вопросы к экзамену по математическому анализу.md",
     "Матанчек/Матан.md",
     "Алгебра",
@@ -227,9 +231,7 @@
     "Матанчек/photos",
     "Матанчек",
     "Геометрия_FULL",
-    "Геометрия_FULL/hotos/Pasted image 20260111160712.png",
-    "Геометрия_FULL/hotos/Pasted image 20260111160628.png",
-    "Геометрия_FULL/hotos/IMG_9777.jpg",
+    "All media/Pasted image 20260111160712.png",
     "Untitled.canvas",
     "Геометрия_FULL/hotos",
     "Welcome.md"
