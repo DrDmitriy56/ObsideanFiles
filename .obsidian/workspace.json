@@ -6,7 +6,7 @@
       {
         "id": "0ce91b8358d45406",
         "type": "tabs",
-        "dimension": 52.13219616204691,
+        "dimension": 51.873198847262245,
         "children": [
           {
             "id": "a10ecf12e17d0ed8",
@@ -27,7 +27,7 @@
       {
         "id": "96ee8feca063b774",
         "type": "tabs",
-        "dimension": 47.86780383795309,
+        "dimension": 48.126801152737755,
         "children": [
           {
             "id": "c1266608c8a31f0a",
@@ -96,11 +96,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f4d0b667353acde0",
@@ -205,33 +207,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "a10ecf12e17d0ed8",
+  "active": "c1266608c8a31f0a",
   "lastOpenFiles": [
-    "Алгебра/Вопросы по алгебре.md",
     "Алгебра/Алгебра.md",
-    "All media/image_2026-01-23_04-00-19.png",
+    "Pasted image 20260124115942.png",
+    "Pasted image 20260124115934.png",
+    "Pasted image 20260124115641.png",
+    "Pasted image 20260124115618.png",
+    "Алгебра/Вопросы по алгебре.md",
+    "Pasted image 20260124115306.png",
+    "Pasted image 20260124114928.png",
+    "Pasted image 20260124045808.png",
+    "Pasted image 20260124035816.png",
+    "Pasted image 20260124032649.png",
+    "Pasted image 20260124032614.png",
     "consistency-report.md",
     "All media",
-    "CopyQ.klyjSn.png",
-    "CopyQ.yllhRV.png",
-    "All media/Pasted image 20260123193104.png",
     "Алгебра/фотос",
-    "All media/Pasted image 20260123192729.png",
-    "All media/Pasted image 20260123192712.png",
-    "All media/Pasted image 20260123192645.png",
     "A, B], [0, D.md",
     "Матанчек/Вопросы к экзамену по математическому анализу.md",
     "Матанчек/Матан.md",
     "Алгебра",
     "Pres.md",
-    "Pasted image 20260119020812.png",
-    "Pasted image 20260118210029.png",
     "Геометрия_FULL/Геометрия.md",
     "Геометрия_FULL/Вопросы геометрия.md",
     "Матанчек/photos",
     "Матанчек",
     "Геометрия_FULL",
-    "All media/Pasted image 20260111160712.png",
     "Untitled.canvas",
     "Геометрия_FULL/hotos",
     "Welcome.md"
