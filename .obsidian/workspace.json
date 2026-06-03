@@ -96,13 +96,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f4d0b667353acde0",
@@ -207,7 +205,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "c1266608c8a31f0a",
+  "active": "3708d64221897d5c",
   "lastOpenFiles": [
     "Алгебра/Алгебра.md",
     "Pasted image 20260124115942.png",
