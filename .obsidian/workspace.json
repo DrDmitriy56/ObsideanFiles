@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "66602d4f0ec5c598",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5a86a3742bef563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1da536b2988cd5a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76e8e06dba25e590",
+    "type": "split",
+    "children": [
+      {
+        "id": "88e583657f9eef54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3708d64221897d5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dd0382d800b7c5da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b42c0d00be842540",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4d0b667353acde0",
+    "type": "split",
+    "children": [
+      {
+        "id": "95ae9543f89a6a64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4baee3ceb252890",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Вопросы геометрия.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Вопросы геометрия"
+            }
+          },
+          {
+            "id": "f3a8521bf99c5fc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Вопросы геометрия.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Вопросы геометрия"
+            }
+          },
+          {
+            "id": "0f36fb9d03aaed73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "575c78f638dc4e48",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0694faf83ae68f92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Вопросы геометрия.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Вопросы геометрия"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3708d64221897d5c",
+  "lastOpenFiles": [
+    "study/session_1/Геометрия_FULL/Геометрия.md",
+    "study/session_1/Алгебра/Ещё что то по алгебре.md",
+    "study/session_1/Алгебра/Алгебра.md",
+    "study/session_1/Алгебра/Вопросы по алгебре.md",
+    "study/session_1/Матанчек/Матан.md",
+    "study/session_1/Матанчек/Вопросы к экзамену по математическому анализу.md",
+    "study/session_1/Матанчек",
+    "study/session_1/Геометрия_FULL/hotos/Pasted image 20260111142938.png",
+    "study/session_1/Геометрия_FULL/hotos/Pasted image 20260111001355.png",
+    "study/session_1/Геометрия_FULL/hotos/Pasted image 20260110231702.png",
+    "study/session_1/Геометрия_FULL/hotos/Pasted image 20260110225117.png",
+    "study/session_1/Геометрия_FULL/hotos/Pasted image 20260110182214.png",
+    "study/session_1/Геометрия_FULL/hotos/Pasted image 20260109224243.png",
+    "study/session_1/Геометрия_FULL/hotos/Pasted image 20260108163254.png",
+    "study/session_1/Геометрия_FULL/hotos/Pasted image 20260107171346.png",
+    "study/session_1/Геометрия_FULL/hotos/Pasted image 20260107165055.png",
+    "study/session_1/Геометрия_FULL/hotos/Pasted image 20260107165025.png",
+    "study/session_1/Геометрия_FULL/Вопросы геометрия.md",
+    "study/session_1/Геометрия_FULL/hotos",
+    "study/session_1/Геометрия_FULL",
+    "study/session_1/Алгебра",
+    "study/session_1/consistency-report.md",
+    "study/session_1/All media",
+    "study/Session_2/Геометрия (2 семестр).md",
+    "study/Session_2/Вопросы по геометрии (2 семестр).md",
+    "study/session_1",
+    "study/Session_2",
+    "study",
+    "Алгебра/Алгебра.md",
+    "Алгебра/Вопросы по алгебре.md",
+    "consistency-report.md",
+    "Алгебра 2",
+    "Дискра",
+    "A, B], [0, D.md",
+    "Матанчек/Вопросы к экзамену по математическому анализу.md",
+    "Матанчек/Матан.md",
+    "Pres.md",
+    "Геометрия_FULL/Геометрия.md",
+    "Геометрия_FULL/Вопросы геометрия.md",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}
