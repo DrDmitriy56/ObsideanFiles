@@ -6,7 +6,7 @@
       {
         "id": "f5a86a3742bef563",
         "type": "tabs",
-        "dimension": 71.70278637770899,
+        "dimension": 61.22448979591836,
         "children": [
           {
             "id": "1da536b2988cd5a3",
@@ -27,7 +27,7 @@
       {
         "id": "87f42c42d9e5afee",
         "type": "tabs",
-        "dimension": 28.29721362229102,
+        "dimension": 38.775510204081634,
         "children": [
           {
             "id": "90df6a93e054cf7e",
@@ -96,7 +96,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,19 +209,19 @@
   },
   "active": "1da536b2988cd5a3",
   "lastOpenFiles": [
-    "Pasted image 20260610160518.png",
-    "Pasted image 20260610155239.png",
-    "Pasted image 20260610154816.png",
-    "Pasted image 20260610154510.png",
-    "Pasted image 20260610154252.png",
-    "Pasted image 20260610154146.png",
-    "Pasted image 20260610153427.png",
-    "Pasted image 20260610153143.png",
-    "Pasted image 20260610153141.png",
-    "Pasted image 20260610152936.png",
-    "Pasted image 20260610152914.png",
+    "Pasted image 20260610210616.png",
+    "Pasted image 20260610210600.png",
+    "Pasted image 20260610210332.png",
+    "Pasted image 20260610210320.png",
     "study/Session_2/Вопросы по геометрии (2 семестр).md",
     "study/Session_2/Геометрия (2 семестр).md",
+    "Pasted image 20260610204803.png",
+    "Pasted image 20260610204746.png",
+    "Pasted image 20260610175606.png",
+    "Pasted image 20260610175325.png",
+    "Pasted image 20260610175052.png",
+    "Pasted image 20260610175042.png",
+    "Pasted image 20260610175016.png",
     "формулы_френе.md",
     "study/session_1/Геометрия_FULL/Геометрия.md",
     "study/session_1/Алгебра/Ещё что то по алгебре.md",
