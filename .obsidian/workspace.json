@@ -4,43 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "f5a86a3742bef563",
+        "id": "007672bc6192041a",
         "type": "tabs",
-        "dimension": 61.22448979591836,
+        "dimension": 59.591836734693885,
         "children": [
           {
-            "id": "1da536b2988cd5a3",
+            "id": "56071b0527ce9f5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/Session_2/Геометрия (2 семестр).md",
+                "file": "study/Session_2/Матан/Матан (2 семестр).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Геометрия (2 семестр)"
+              "title": "Матан (2 семестр)"
             }
           }
         ]
       },
       {
-        "id": "87f42c42d9e5afee",
+        "id": "b4cc81ae027c22a5",
         "type": "tabs",
-        "dimension": 38.775510204081634,
+        "dimension": 40.40816326530612,
         "children": [
           {
-            "id": "90df6a93e054cf7e",
+            "id": "1409c7d96a07ff98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "study/Session_2/Вопросы по геометрии (2 семестр).md",
+                "file": "study/Session_2/Матан/Вопросы матан (2 семестр).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вопросы по геометрии (2 семестр)"
+              "title": "Вопросы матан (2 семестр)"
             }
           }
         ]
@@ -96,8 +96,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,50 +206,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "1da536b2988cd5a3",
+  "active": "56071b0527ce9f5d",
   "lastOpenFiles": [
-    "Pasted image 20260611035916.png",
-    "Pasted image 20260611034943.png",
-    "study/Session_2/Вопросы по геометрии (2 семестр).md",
-    "study/Session_2/Геометрия (2 семестр).md",
-    "Pasted image 20260611031222.png",
-    "Pasted image 20260611031054.png",
-    "Pasted image 20260611031037.png",
-    "Pasted image 20260611020913.png",
-    "Pasted image 20260611020900.png",
-    "Pasted image 20260611014531.png",
-    "Pasted image 20260611014520.png",
-    "Pasted image 20260611012022.png",
-    "Pasted image 20260611011406.png",
-    "формулы_френе.md",
-    "study/session_1/Геометрия_FULL/Геометрия.md",
-    "study/session_1/Алгебра/Ещё что то по алгебре.md",
-    "study/session_1/Алгебра/Алгебра.md",
-    "study/session_1/Алгебра/Вопросы по алгебре.md",
-    "study/session_1/Матанчек/Матан.md",
+    "Pasted image 20260617011903.png",
+    "Pasted image 20260617011814.png",
+    "Pasted image 20260617011735.png",
+    "Pasted image 20260617011654.png",
+    "Pasted image 20260617011645.png",
+    "Pasted image 20260617011632.png",
+    "Pasted image 20260617005702.png",
+    "Pasted image 20260617005531.png",
+    "Pasted image 20260617005519.png",
+    "Pasted image 20260617001542.png",
+    "Pasted image 20260617001527.png",
+    "study/Session_2/Матан/Вопросы матан (2 семестр).md",
+    "study/Session_2/Матан/Матан (2 семестр).md",
+    "study/Session_2/Матан/Итегрирование тригонометрических выражений.md",
+    "study/Session_2/Геометрия/Вопросы по геометрии (2 семестр).md",
+    "().md",
     "study/session_1/Матанчек/Вопросы к экзамену по математическому анализу.md",
-    "study/session_1/Матанчек",
+    "study/session_1/Матанчек/Матан.md",
+    "study/session_1/Геометрия_FULL/Геометрия.md",
     "study/session_1/Геометрия_FULL/Вопросы геометрия.md",
+    "study/session_1/Алгебра/Ещё что то по алгебре.md",
+    "study/session_1/Алгебра/Вопросы по алгебре.md",
+    "study/session_1/Алгебра/Алгебра.md",
+    "study/session_1/consistency-report.md",
+    "Интегрирование тригонометрических выражений.md",
+    "study/Session_2/Матан",
+    "study/Session_2/Геометрия",
+    "study/Session_2/Геометрия/Геометрия (2 семестр).md",
+    "study/Session_2/Геометрия/фотки геома",
+    "формулы_френе.md",
+    "study/session_1/Матанчек",
     "study/session_1/Геометрия_FULL/hotos",
     "study/session_1/Геометрия_FULL",
     "study/session_1/Алгебра",
-    "study/session_1/consistency-report.md",
     "study/session_1/All media",
     "study/session_1",
     "study/Session_2",
-    "study",
     "Алгебра/Алгебра.md",
     "Алгебра/Вопросы по алгебре.md",
     "consistency-report.md",
-    "Алгебра 2",
-    "Дискра",
     "A, B], [0, D.md",
     "Матанчек/Вопросы к экзамену по математическому анализу.md",
     "Матанчек/Матан.md",
     "Pres.md",
     "Геометрия_FULL/Геометрия.md",
     "Геометрия_FULL/Вопросы геометрия.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
