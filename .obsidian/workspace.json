@@ -6,7 +6,7 @@
       {
         "id": "007672bc6192041a",
         "type": "tabs",
-        "dimension": 70.44334975369459,
+        "dimension": 60.014727540500736,
         "children": [
           {
             "id": "56071b0527ce9f5d",
@@ -27,7 +27,7 @@
       {
         "id": "b4cc81ae027c22a5",
         "type": "tabs",
-        "dimension": 29.55665024630542,
+        "dimension": 39.985272459499264,
         "children": [
           {
             "id": "1409c7d96a07ff98",
@@ -96,12 +96,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f4d0b667353acde0",
@@ -208,18 +208,19 @@
   },
   "active": "56071b0527ce9f5d",
   "lastOpenFiles": [
+    "Pasted image 20260618202229.png",
+    "Pasted image 20260618202217.png",
+    "Pasted image 20260618193551.png",
+    "Pasted image 20260618193532.png",
+    "Pasted image 20260618193422.png",
+    "Pasted image 20260618193405.png",
+    "Pasted image 20260618191357.png",
+    "Pasted image 20260618191342.png",
+    "Pasted image 20260618191326.png",
+    "Pasted image 20260618191310.png",
+    "Pasted image 20260618185156.png",
     "study/Session_2/Матан/Вопросы матан (2 семестр).md",
     "study/Session_2/Матан/Матан (2 семестр).md",
-    "Pasted image 20260617210156.png",
-    "Pasted image 20260617210144.png",
-    "Pasted image 20260617210118.png",
-    "Pasted image 20260617205921.png",
-    "Pasted image 20260617205039.png",
-    "Pasted image 20260617202801.png",
-    "Pasted image 20260617202707.png",
-    "Pasted image 20260617201738.png",
-    "Pasted image 20260617201153.png",
-    "Pasted image 20260617200922.png",
     "study/Session_2/Матан/Итегрирование тригонометрических выражений.md",
     "study/Session_2/Геометрия/Вопросы по геометрии (2 семестр).md",
     "().md",
