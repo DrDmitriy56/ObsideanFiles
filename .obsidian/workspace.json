@@ -6,6 +6,7 @@
       {
         "id": "b2bd647f5e2a0fea",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "e8e26da724abefa8",
@@ -26,6 +27,7 @@
       {
         "id": "3eddc44a91a6fdee",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "27a563160a4954c3",
@@ -73,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#28в",
+                "query": "tag:#11д",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +96,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,27 +209,28 @@
   },
   "active": "e8e26da724abefa8",
   "lastOpenFiles": [
+    "CopyQ.GbVWPq.png",
+    "Pasted image 20260625234941.png",
+    "Pasted image 20260625234931.png",
+    "Pasted image 20260625233808.png",
+    "Pasted image 20260625233805.png",
+    "Pasted image 20260625232634.png",
+    "Pasted image 20260625232115.png",
+    "Pasted image 20260625231630.png",
+    "Pasted image 20260625231610.png",
+    "Pasted image 20260625231544.png",
+    "Pasted image 20260625231541.png",
     "study/Session_2/Дискра/Дискра вопросы (2 семестр).md",
     "study/Session_2/Дискра/Дискра (2 семестр).md",
-    "Pasted image 20260624204829.png",
     "study/Session_2/Дискра/Чек-лист по дискре.md",
+    "Untitled.canvas",
+    "study/Session_2/Геометрия/Геометрия (2 семестр).md",
     "study/Session_2/Матан/Чек-лист по матану (52 билета).md",
     "working plan.md",
     "study/Session_2/Матан/Матан (2 семестр).md",
     "study/Session_2/Матан/Вопросы матан (2 семестр).md",
-    "study/Session_2/Матан/матан фотки/Pasted image 20260619011023.png",
     "study/Session_2/Дискра",
-    "study/Session_2/Матан/матан фотки/Pasted image 20260619100124.png",
-    "study/Session_2/Матан/матан фотки/Pasted image 20260619100110.png",
-    "study/Session_2/Матан/матан фотки/Pasted image 20260619100054.png",
-    "study/Session_2/Матан/матан фотки/Pasted image 20260619100043.png",
-    "study/Session_2/Матан/матан фотки/Pasted image 20260619095939.png",
-    "study/Session_2/Матан/матан фотки/Pasted image 20260619095928.png",
-    "study/Session_2/Матан/матан фотки/Pasted image 20260619095646.png",
-    "study/Session_2/Матан/матан фотки/Pasted image 20260619095622.png",
     "study/Session_2/Матан/Итегрирование тригонометрических выражений.md",
-    "study/Session_2/Геометрия/Геометрия (2 семестр).md",
-    "Untitled.canvas",
     "study/Session_2/Матан/матан фотки",
     "study/Session_2/Геометрия/Вопросы по геометрии (2 семестр).md",
     "().md",
