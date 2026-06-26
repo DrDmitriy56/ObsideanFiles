@@ -6,7 +6,7 @@
       {
         "id": "b2bd647f5e2a0fea",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 60.40609137055838,
         "children": [
           {
             "id": "e8e26da724abefa8",
@@ -27,7 +27,7 @@
       {
         "id": "3eddc44a91a6fdee",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 39.59390862944163,
         "children": [
           {
             "id": "27a563160a4954c3",
@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f4d0b667353acde0",
@@ -224,6 +225,7 @@
   "lastOpenFiles": [
     "study/Session_2/Дискра/Чек-лист по дискре.md",
     "study/Session_2/Дискра/Дискра (2 семестр).md",
+    "Pasted image 20260626202905.png",
     "CopyQ.HrarLJ.png",
     "study/Session_2/Дискра/дискра фотки/Pasted image 20260626040607.png",
     "study/Session_2/Дискра/дискра фотки/Pasted image 20260626042124.png",
@@ -235,7 +237,6 @@
     "study/Session_2/Дискра/Дискра вопросы (2 семестр).md",
     "study/Session_2/Дискра/дискра фотки/CopyQ.GbVWPq.png",
     "study/Session_2/Дискра/дискра фотки",
-    "study/Session_2/Дискра/дискра фотки/Pasted image 20260626030211.png",
     "Untitled.canvas",
     "study/Session_2/Геометрия/Геометрия (2 семестр).md",
     "study/Session_2/Матан/Чек-лист по матану (52 билета).md",
