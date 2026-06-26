@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#11д",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,13 +96,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f4d0b667353acde0",
@@ -209,19 +207,20 @@
   },
   "active": "e8e26da724abefa8",
   "lastOpenFiles": [
-    "CopyQ.GbVWPq.png",
-    "Pasted image 20260625234941.png",
-    "Pasted image 20260625234931.png",
-    "Pasted image 20260625233808.png",
-    "Pasted image 20260625233805.png",
-    "Pasted image 20260625232634.png",
-    "Pasted image 20260625232115.png",
-    "Pasted image 20260625231630.png",
-    "Pasted image 20260625231610.png",
-    "Pasted image 20260625231544.png",
-    "Pasted image 20260625231541.png",
-    "study/Session_2/Дискра/Дискра вопросы (2 семестр).md",
+    "study/Session_2/Дискра/дискра фотки/CopyQ.GbVWPq.png",
     "study/Session_2/Дискра/Дискра (2 семестр).md",
+    "study/Session_2/Дискра/дискра фотки",
+    "study/Session_2/Дискра/дискра фотки/Pasted image 20260626030211.png",
+    "study/Session_2/Дискра/дискра фотки/Pasted image 20260626030108.png",
+    "study/Session_2/Дискра/дискра фотки/Pasted image 20260626025207.png",
+    "study/Session_2/Дискра/дискра фотки/Pasted image 20260626025150.png",
+    "study/Session_2/Дискра/дискра фотки/Pasted image 20260626024548.png",
+    "study/Session_2/Дискра/Дискра вопросы (2 семестр).md",
+    "study/Session_2/Дискра/дискра фотки/Pasted image 20260626022241.png",
+    "study/Session_2/Дискра/дискра фотки/Pasted image 20260626022226.png",
+    "study/Session_2/Дискра/дискра фотки/Pasted image 20260626020510.png",
+    "study/Session_2/Дискра/дискра фотки/Pasted image 20260626020124.png",
+    "study/Session_2/Дискра/дискра фотки/Pasted image 20260626015918.png",
     "study/Session_2/Дискра/Чек-лист по дискре.md",
     "Untitled.canvas",
     "study/Session_2/Геометрия/Геометрия (2 семестр).md",
@@ -251,7 +250,6 @@
     "study/session_1/Геометрия_FULL/hotos",
     "study/session_1/Геометрия_FULL",
     "study/session_1/Алгебра",
-    "study/session_1/All media",
     "Алгебра/Алгебра.md",
     "Алгебра/Вопросы по алгебре.md",
     "consistency-report.md",
