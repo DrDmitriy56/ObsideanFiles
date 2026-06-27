@@ -6,7 +6,7 @@
       {
         "id": "b2bd647f5e2a0fea",
         "type": "tabs",
-        "dimension": 41.49722735674676,
+        "dimension": 69.03553299492386,
         "children": [
           {
             "id": "e8e26da724abefa8",
@@ -27,7 +27,7 @@
       {
         "id": "3eddc44a91a6fdee",
         "type": "tabs",
-        "dimension": 58.50277264325323,
+        "dimension": 30.96446700507614,
         "children": [
           {
             "id": "27a563160a4954c3",
@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f4d0b667353acde0",
@@ -222,8 +223,11 @@
   },
   "active": "e8e26da724abefa8",
   "lastOpenFiles": [
-    "study/Session_2/Дискра/дискра фотки/CopyQ.HrarLJ.png",
+    "study/Session_2/Дискра/Чек-лист по дискре.md",
     "study/Session_2/Дискра/Дискра (2 семестр).md",
+    "Pasted image 20260627062915.png",
+    "Pasted image 20260627062828.png",
+    "study/Session_2/Дискра/дискра фотки/CopyQ.HrarLJ.png",
     "study/Session_2/Дискра/дискра фотки/Pasted image 20260627051637.png",
     "study/Session_2/Дискра/дискра фотки/Pasted image 20260627051620.png",
     "study/Session_2/Дискра/дискра фотки/Pasted image 20260627051602.png",
@@ -231,10 +235,6 @@
     "study/Session_2/Дискра/дискра фотки/Pasted image 20260627051321.png",
     "study/Session_2/Дискра/дискра фотки/Pasted image 20260627050926.png",
     "study/Session_2/Дискра/дискра фотки/Pasted image 20260627050412.png",
-    "study/Session_2/Дискра/дискра фотки/Pasted image 20260627050410.png",
-    "study/Session_2/Дискра/Чек-лист по дискре.md",
-    "study/Session_2/Дискра/дискра фотки/Pasted image 20260627050028.png",
-    "study/Session_2/Дискра/дискра фотки/Pasted image 20260627050009.png",
     "study/Session_2/Дискра/Дискра вопросы (2 семестр).md",
     "study/Session_2/Дискра/дискра фотки",
     "Untitled.canvas",
