@@ -1,0 +1,11 @@
+# Игнорирование папки кэша и состояния рабочей области
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/trash/
+
+# Опционально (если хотите синхронизировать плагины и сниппеты вручную):
+# .obsidian/plugins/
+# .obsidian/snippets/
+
